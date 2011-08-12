@@ -4,5 +4,6 @@ META.yml
 Makefile.PL
 README
 dist.ini
+dist.ini~
 lib/WWW/Shorten/SuPr.pm
 t/01-shorten.t

@@ -3,7 +3,7 @@ author  = Anwesh <kanishka@cpan.org>
 license = Perl_5
 copyright_holder = Anwesh
 copyright_year   = 2011
-version = 0.02
+version = 0.002
 [@Basic]
 [NextRelease]
 [@Git]
